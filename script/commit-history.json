@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e8c0cc949ed74d30e4c2b472298adce4c1d84308",
     "author": "oscar-perezRevons",
     "commit": {
       "date": "2025-08-21T12:50:27.000Z",
       "message": "Add functionality for name",
-      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/e8c0cc949ed74d30e4c2b472298adce4c1d84308"
     },
     "stats": {
       "total": 38,
       "additions": 13,
       "deletions": 25,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "oscar-perezRevons",
+    "commit": {
+      "date": "2025-08-21T12:55:27.000Z",
+      "message": "feat: Add hour",
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 13,
+      "deletions": 1,
       "date": "2025-08-21"
     },
     "coverage": 100,
