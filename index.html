@@ -8,13 +8,22 @@
     <form id="saludar-form">
       <label for="nombre-usuario">Ingrese su nombre:</label>
       <input type="text" id="nombre-usuario" name="nombre-usuario" />
+
       <label for="genero-usuario">Seleccione su género:</label>
       <select id="genero-usuario" name="genero-usuario">
         <option value="masculino">Masculino</option>
         <option value="femenino">Femenino</option>
       </select>
+
       <label for="edad-usuario">Ingrese su edad:</label>
       <input type="number" id="edad-usuario" name="edad-usuario" min="0" />
+
+      <label for="idioma-usuario">Seleccione el idioma:</label>
+      <select id="idioma-usuario" name="idioma-usuario">
+        <option value="es">Español</option>
+        <option value="en">Inglés</option>
+      </select>
+
       <input type="submit" value="Enviar" class="button" />
     </form>
     <div id="form-div"></div>

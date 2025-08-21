@@ -95,17 +95,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5751a4f576d62119d3f4283bac86a37cb0625b64",
     "author": "oscar-perezRevons",
     "commit": {
       "date": "2025-08-21T13:11:30.000Z",
       "message": "fetch: Add last files",
-      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/5751a4f576d62119d3f4283bac86a37cb0625b64"
     },
     "stats": {
       "total": 1,
       "additions": 0,
       "deletions": 1,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "oscar-perezRevons",
+    "commit": {
+      "date": "2025-08-21T13:17:16.000Z",
+      "message": "fetch: Add functionality language user",
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 32,
+      "deletions": 10,
       "date": "2025-08-21"
     },
     "coverage": 100,
