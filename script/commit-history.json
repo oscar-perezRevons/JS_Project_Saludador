@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "oscar-perezRevons",
+    "commit": {
+      "date": "2025-08-21T12:27:12.000Z",
+      "message": "Add functionality first hello",
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 2164,
+      "additions": 1095,
+      "deletions": 1069,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
