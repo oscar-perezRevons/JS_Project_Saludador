@@ -76,17 +76,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "66c7d8320cde7df0dc62e262ed0b97655bfd97fa",
     "author": "oscar-perezRevons",
     "commit": {
       "date": "2025-08-21T13:05:20.000Z",
       "message": "fetch: Add functionality age user",
-      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/66c7d8320cde7df0dc62e262ed0b97655bfd97fa"
     },
     "stats": {
       "total": 24,
       "additions": 16,
       "deletions": 8,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "oscar-perezRevons",
+    "commit": {
+      "date": "2025-08-21T13:11:30.000Z",
+      "message": "fetch: Add last files",
+      "url": "https://github.com/oscar-perezRevons/JS_Project_Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2025-08-21"
     },
     "coverage": 100,
